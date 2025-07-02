@@ -157,7 +157,7 @@ for i, dataset in enumerate(sorted_datasets):
 
     y_pos = 10 + i * 20
     # Draw colored line first (behind text)
-    distance_num = dataset["distance"].lstrip("-")  # Remove leading hyphen
+    distance_num = dataset["distance"]
     text = font.render(f"{distance_num}km", True, (0, 0, 0))
     # Right-align text so 'km' aligns in a column
     text_x = WIDTH - text.get_width() - 5
