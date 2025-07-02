@@ -43,3 +43,6 @@ Example output files: `cross_section_coordinates.csv`, `cross_section_elevation.
 - `pygame`: For visualization
 - `requests`: For API calls
 - `math`: For geographic calculations
+
+### Reference
+- https://ktgis.net/service/topoprofile/
