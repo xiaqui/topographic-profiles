@@ -1,5 +1,5 @@
 # python-expt
-プロトタイプのための技術実験室です ~ experiment for experience!
+experiment for experience!
 
 ## Topographic Cross-Section Generator
 
